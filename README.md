@@ -81,14 +81,14 @@ class WhisperWithProjection:
   
 ### Pretraining
 #### Training Loss Curve and Learning Rate
-<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/c9e205b9-44aa-4ef3-b7da-f6d69b5f0f2a.type" width="500">  <img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/a82cf4b6-0cc4-47d9-ad7e-f504677a5074.type" width="493">
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/c9e205b9-44aa-4ef3-b7da-f6d69b5f0f2a.type" width="400">  <img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/a82cf4b6-0cc4-47d9-ad7e-f504677a5074.type" width="393">
 
 #### Training Logs
 ![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/83cbd14a-9626-410c-99be-5757c089c9b2)
 
 ### Finetuning 
 #### Training Loss Curve and Learning Rate
-<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/ceb9d187-14cb-4372-8370-bdbf7f7a3812.type" width="488"> <img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/5d1fe7b3-5cec-46c8-aaac-a1e3ae5b7f6c.type" width="500">
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/ceb9d187-14cb-4372-8370-bdbf7f7a3812.type" width="388"> <img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/5d1fe7b3-5cec-46c8-aaac-a1e3ae5b7f6c.type" width="400">
 
 #### Training Logs
 ![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/3aebd889-d120-466f-8751-9c7e37023ab1)
