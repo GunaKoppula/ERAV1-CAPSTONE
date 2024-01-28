@@ -67,16 +67,16 @@ class AudioLanguageConnector:
 - This class prepares and tokenizes audio-related text data using the "microsoft/phi-2" model's tokenizer. The <audio_start> and <audio_end> tokens are added to the input text to provide context for audio-related processing. The tokenized output is then returned as a tensor. This class acts as a connector to process text data in a format suitable for the specified audio model.
 
 ```python
-class MultiModalPhi2:
-```
-
- - This class takes input text, audio, and images and constructs a conversation prompt with appropriate formatting for the model. It tokenizes the prompt, preprocesses the image, and concatenates audio embeddings if available, and generates new tokens using the pre-trained model, considering input modalities.
-Decodes and returns the generated output, handling special tokens and potential mismatches.
-
-```python
 class WhisperWithProjection:
 ```
 - This class transcribes audio by encapsulating the necessary steps. It uses a pre-trained model called "openai/whisper-tiny" to convert audio files into text transcriptions.
+
+```python
+class MultiModalPhi2:
+```
+ - This class takes input text, audio, and images and constructs a conversation prompt with appropriate formatting for the model. It tokenizes the prompt, preprocesses the image, and concatenates audio embeddings if available, and generates new tokens using the pre-trained model, considering input modalities.
+Decodes and returns the generated output, handling special tokens and potential mismatches.
+
 
   
 ### Pretraining
