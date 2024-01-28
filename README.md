@@ -49,17 +49,26 @@
 #### Training Logs
 ![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/3aebd889-d120-466f-8751-9c7e37023ab1)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Results
 ![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/f12a9f04-df32-413e-b957-774c30381b2b)
 
 ### Deployed on HF
 #### Text & Image:
 ![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/485a2806-81ac-4229-97ee-87f58af578bc)
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/ae2c14c4-6949-4fff-b2fb-cb37a29eac33)
 
 #### Audio & Image:
 **Question Asked: How many people are there in this image?**
 ![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/430310fc-1df9-459c-94f3-32d9691a1035)
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/fd30a864-b289-469a-9c85-b6fd02f486a9)
-On HF Space:
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/efefee6e-98ee-4658-b2e9-f18d8f82a234)
