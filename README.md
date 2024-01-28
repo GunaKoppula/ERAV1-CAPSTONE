@@ -9,13 +9,13 @@
 3. Pretraining approach: Pretraining using QLoRA
 
 ### Design
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/3a7b2b15-7e70-4ae5-8400-6a4d8dbf5ff9)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/ae4525ed-f612-458d-a679-b88100e1d47d)
 
 ### Training Loss Curve
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/f09b0f73-9da2-4bf0-bb00-6e7be8ef8a8e)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/1692461c-de43-4b50-87d7-bdc0d72b5f69)
 
 ### Training Logs
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/a6c143d0-c63c-4227-804f-93a4a8b74f7f)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/2672a350-7786-4773-b1bc-ea99a3e7091c)
 
 
 ## Phi2 : Multimodal Finetuning
@@ -27,30 +27,27 @@
 5. Finetuning Dataset: [Instruct 150k dataset based on COCO](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
 
 ### Design
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/b09a77d9-0c70-4b65-89ac-e7771457cf27)
-
-### Approach
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/56df24cd-2681-4e17-ab64-9652f609b15f)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/a09cc77d-2cd0-4aa9-ae04-7fea4edbb368)
 
 ### Pretraining
 #### Training Loss Curve
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/b6c37a95-0a56-4b52-8719-3ff56dc1b703)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/c9e205b9-44aa-4ef3-b7da-f6d69b5f0f2a)
 
 #### Learing Rate
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/44d9a11b-b28d-47e1-ba1d-d6dc22ebe748)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/a82cf4b6-0cc4-47d9-ad7e-f504677a5074)
 
 #### Training Logs
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/76543d98-d9fe-4c1a-ac47-3d06e48053ad)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/83cbd14a-9626-410c-99be-5757c089c9b2)
 
 ### Finetuning
 #### Training Loss Curve
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/45ef40bd-fae5-4cfe-a522-c0eed2833230)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/ceb9d187-14cb-4372-8370-bdbf7f7a3812)
 
 #### Learing Rate
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/df60ee62-a537-4e36-a7f7-f7111e101162)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/5d1fe7b3-5cec-46c8-aaac-a1e3ae5b7f6c)
 
 #### Training Logs
-![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/2747acce-bc99-4c37-a05a-d5e81cb9aa9d)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/3aebd889-d120-466f-8751-9c7e37023ab1)
 
 ### Results
 ![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/f12a9f04-df32-413e-b957-774c30381b2b)
