@@ -107,7 +107,7 @@ class WhisperWithProjection:
 
 
 
-Future Improvements:
+### Future Scope:
 - Incorporating the original Llava model's finetuning on a larger set of BLIP captions (558k) could lead to significant improvements.
 - Using GPTQ or AWQ can reduce latency, making the model more efficient.
 
