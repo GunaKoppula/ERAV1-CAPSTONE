@@ -95,13 +95,14 @@ Decodes and returns the generated output, handling special tokens and potential 
 
 
 ### Results
-![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/4b54c0bd-b078-4dc9-932a-49640d0297dc)
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/076fdad3-5717-4098-9751-d4ad90801e1a)
 
 #### Text & Image:
 ![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/4a41ada0-3174-413f-86c5-323456168915)
 
 #### Audio & Image:
-**Question Asked: Tell me about this image**
+###### Question Asked: What is this image about?
+![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/edc45257-cab6-4247-a672-5766b54e8b04)
 
 
 
