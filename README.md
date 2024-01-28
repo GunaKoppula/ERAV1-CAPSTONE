@@ -45,10 +45,10 @@
 3. Pretraining approach: Pretraining using QLoRA
 
 ### Design
-![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/ae4525ed-f612-458d-a679-b88100e1d47d)
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/ae4525ed-f612-458d-a679-b88100e1d47d.type" width="500">
 
 ### Training Loss Curve
-![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/1692461c-de43-4b50-87d7-bdc0d72b5f69)
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/1692461c-de43-4b50-87d7-bdc0d72b5f69.type" width="500">
 
 ### Training Logs
 ![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/2672a350-7786-4773-b1bc-ea99a3e7091c)
@@ -63,27 +63,30 @@
 5. Finetuning Dataset: [Instruct 150k dataset based on COCO](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
 
 ### Design
-![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/a09cc77d-2cd0-4aa9-ae04-7fea4edbb368)
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/a09cc77d-2cd0-4aa9-ae04-7fea4edbb368.type" width="500">
 
 ### Pretraining
 #### Training Loss Curve
-![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/c9e205b9-44aa-4ef3-b7da-f6d69b5f0f2a)
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/c9e205b9-44aa-4ef3-b7da-f6d69b5f0f2a.type" width="500">
 
-#### Learing Rate
-![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/a82cf4b6-0cc4-47d9-ad7e-f504677a5074)
+#### Learning Rate
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/a82cf4b6-0cc4-47d9-ad7e-f504677a5074.type" width="500">
 
 #### Training Logs
-![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/83cbd14a-9626-410c-99be-5757c089c9b2)
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/83cbd14a-9626-410c-99be-5757c089c9b2.type" width="500">
 
-### Finetuning
+### Finetuning 
 #### Training Loss Curve
-![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/ceb9d187-14cb-4372-8370-bdbf7f7a3812)
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/ceb9d187-14cb-4372-8370-bdbf7f7a3812.type" width="500">
 
-#### Learing Rate
-![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/5d1fe7b3-5cec-46c8-aaac-a1e3ae5b7f6c)
+#### Learning Rate
+<img src="https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/5d1fe7b3-5cec-46c8-aaac-a1e3ae5b7f6c.type" width="500">
 
 #### Training Logs
 ![image](https://github.com/GunaKoppula/ERAV1-CAPSTONE/assets/61241928/3aebd889-d120-466f-8751-9c7e37023ab1)
+
+
+
 
 
 
