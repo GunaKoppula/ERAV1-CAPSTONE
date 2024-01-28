@@ -66,11 +66,3 @@
 ![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/fd30a864-b289-469a-9c85-b6fd02f486a9)
 On HF Space:
 ![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/efefee6e-98ee-4658-b2e9-f18d8f82a234)
-
-
-### Possible Improvements / Future Scope:
-1. **Full Training:** Here I have pretrained using 200k samples of LAION-CC-SBU dataset with BLIP captions, though its giving good results, full dataset would make it still better.
-2. **Captions for Finetuning:** I have used Instruct 150k dataset for finetuning the model, original Llava model was finetuned also on blip captions(558k) which would again improve the model capabilities.
-3. **Latency Reduction / Model Optimization:** Model could be quantized probably with GPTQ or AWQ to reduce the latency and make the model run faster on CPU too.
-4. **Audio Adapter:** There is abundant data available for Whisper pretraining / finetuning, so could give it a try to use an audio adapter too and finetune a complete multimodal llm.
-5. **Lighter Variant of ClIP?:** For audio I have used Whisper Tiny and still getting good results at minimal latency, it would be interesting to see if I could use a lighter variant of CLIP as well to reduce the latency.
