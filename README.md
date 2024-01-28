@@ -2,6 +2,42 @@
 
 🤗[**Space Link**](https://huggingface.co/spaces/GunaKoppula/MultiModal-Phi2)
 
+
+### Tasks:
+
+1. Make a multi-modal LLM that can take these inputs: 
+
+      - :heavy_check_mark: Text
+      - :heavy_check_mark: Image
+      - :heavy_check_mark: Audio
+
+2. Training:
+   
+      - Image:
+
+          :heavy_check_mark: Use the original Instruct 150k dataset, and use CLIP to get the image embeddings.
+        
+          :heavy_check_mark: Add projection layer from this CLIP embeddings to something that can be fed to Phi Model.
+        
+          :heavy_check_mark: Add an adapter to train (QLoRa) on the instruct 150k dataset.
+
+      - Audio:
+        
+          :heavy_check_mark: Need to use Whisper to perform ASR.
+        
+          :heavy_check_mark: Add a projection layer for whisper output.
+
+      - Text:
+        
+          :heavy_check_mark: Give any text to generate the related details.
+
+
+3. :heavy_check_mark: The output remains text.
+
+4. :heavy_check_mark: Deployment page should look like ChatGPT only, where we can send in images, text, or upload audio (live recording or file).
+
+
+
 ## Phi2 : Pretraining LLM from Scratch
 ### Details
 1. Model used: [Microsoft Phi2](https://huggingface.co/microsoft/phi-2)
