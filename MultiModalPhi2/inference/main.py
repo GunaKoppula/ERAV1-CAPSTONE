@@ -72,7 +72,7 @@ class WhisperWithProjection:
 class MultiModalPhi2:
     def __init__(
         self,
-        modelname_or_path="RaviNaik/Llava-Phi2",
+        modelname_or_path="GunaKoppula/Llava-Phi2",
         temperature=0.2,
         max_new_tokens=1024,
         device="cuda:0",
