@@ -1,10 +1,10 @@
 # ERA-CAPSTONE
 
-🤗[**Space Link**](https://huggingface.co/spaces/RaviNaik/MultiModal-Phi2)
+🤗[**Space Link**](https://huggingface.co/spaces/GunaKoppula/MultiModal-Phi2)
 
 ## Phi2 : Pretraining LLM from Scratch
 ### Details
-1. Model used: Microsoft Phi2
+1. Model used: [Microsoft Phi2](https://huggingface.co/microsoft/phi-2)
 2. Dataset used: Tiny Stories dataset(100k samples) & Realtime data(100k samples) from finetuned Phi2 model via Ollama
 3. Pretraining approach: Pretraining using QLoRA
 
@@ -20,11 +20,11 @@
 
 ## Phi2 : Multimodal Finetuning
 ### Details
-1. LLM Backbone: Phi2
-2. Vision Tower: clip-vit-large-patch14-336
-3. Audio Model: Whisper
-4. Pretraining Dataset: LAION-CC-SBU dataset with BLIP captions(200k samples)
-5. Finetuning Dataset: Instruct 150k dataset based on COCO
+1. LLM Backbone: [Phi2](https://huggingface.co/microsoft/phi-2)
+2. Vision Tower: [clip-vit-large-patch14-336](https://huggingface.co/openai/clip-vit-large-patch14-336)
+3. Audio Model: [Whisper Tiny](https://huggingface.co/openai/whisper-tiny)
+4. Pretraining Dataset: [LAION-CC-SBU dataset with BLIP captions(200k samples)](https://huggingface.co/datasets/liuhaotian/LLaVA-Pretrain)
+5. Finetuning Dataset: [Instruct 150k dataset based on COCO](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
 
 ### Design
 ![image](https://github.com/RaviNaik/ERA-CAPSTONE/assets/23289802/b09a77d9-0c70-4b65-89ac-e7771457cf27)
